@@ -1,1 +1,1 @@
-sudo docker1-limesurvey
+docker1-limesurvey
