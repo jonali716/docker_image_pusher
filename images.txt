@@ -1,1 +1,1 @@
-jonali716/limesurvey-docker
+limesurvey:latest
