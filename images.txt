@@ -1,1 +1,1 @@
-limesurvey
+limesurvey/limesurvey
