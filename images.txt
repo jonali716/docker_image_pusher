@@ -1,1 +1,1 @@
-nginx
+adamzammit/limesurvey-docker
